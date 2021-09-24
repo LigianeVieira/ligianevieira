@@ -30,5 +30,5 @@ Olá, eu sou a Ligiane Vieira👋
   <a href="https://www.linkedin.com/in/ligiane-vieira-30a80681/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   
-  ![Snake animation](https://github.com/ligianevieira/ligianevieira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LigianeVieira/ligianevieira/blob/output/github-contribution-grid-snake.svg)
  
