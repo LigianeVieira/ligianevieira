@@ -14,7 +14,7 @@ empregos:
       - usos: Platane/snk@master
         id: snake-gif
         com:
-          github_user_name: ligianevieira
+          github_user_name: rafaballerini
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - usos: crazy-max/ghaction-github-pages@v2.1.3
@@ -23,16 +23,3 @@ empregos:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{{ segredos. GITHUB_TOKEN }}
-  
-© 2021 GitHub, Inc.
-Termos
-Privacidade
-Segurança
-Estado
-Docs
-Entrar em contato com o GitHub
-Precificação
-API
-Formação
-Blogue
-Sobre
