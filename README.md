@@ -5,7 +5,7 @@ Olá, eu sou a Ligiane Vieira👋
 - 🌱Acabei de me formar no programa Entra21, com linguagem de programação Java Web.
 - Estou aprendendo também: Html, Css, Bootstrap, Javascript, Mysql, python...
 - 🎓 Estou estudando Analise e desenvolvimento de Sistemas
-- 👯 Estou colaborando com o projeto IdeaBox, que será o projeto apresentado por nosso grupo na mostra de Talentos na formação do Entra21.
+- 👯 Finalizamos o projeto IdeaBox, que foi o projeto apresentado por nosso grupo na mostra de Talentos na formação do Entra21.
 - 🎓 Sou formada em Administração 
 
 <div align="center">
