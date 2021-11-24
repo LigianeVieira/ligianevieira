@@ -32,5 +32,5 @@ Olá, eu sou a Ligiane Vieira👋
   
   ##
   
-[Snake animation](https://github.com/LigianeVieira/ligianevieira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ligianevieira/ligianevieira/blob/output/github-contribution-grid-snake.svg)
  
