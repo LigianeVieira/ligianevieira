@@ -1,4 +1,4 @@
-Olá, eu sou a Ligiane Vieira  ###  <img height="30" src="https://cdn.discordapp.com/emojis/873978095210725396.gif?v=1">
+Olá, eu sou a Ligiane Vieira  <img height="30" src="https://cdn.discordapp.com/emojis/873978095210725396.gif?v=1">
 
 
 
