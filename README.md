@@ -1,6 +1,6 @@
-Olá, eu sou a Ligiane Vieira👋
+Olá, eu sou a Ligiane Vieira  ###  <img height="30" src="https://cdn.discordapp.com/emojis/873978095210725396.gif?v=1">
 
-###  <img height="30" src="https://cdn.discordapp.com/emojis/873978095210725396.gif?v=1">
+
 
 - 🌱Acabei de me formar no programa Entra21, com linguagem de programação Java Web.
 - Estou aprendendo também: Html, Css, Bootstrap, Javascript, Mysql, python...
